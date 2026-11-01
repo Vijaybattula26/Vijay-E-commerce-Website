@@ -1,0 +1,23 @@
+[
+  {
+    "capability": "code",
+    "source": "archive",
+    "outcome": "migrate",
+    "status": "verified",
+    "next_action": "none"
+  },
+  {
+    "capability": "database/auth/records",
+    "source": "none detected",
+    "outcome": "n/a",
+    "status": "verified",
+    "next_action": "none"
+  },
+  {
+    "capability": "payments",
+    "source": "demo provider only",
+    "outcome": "preserve demo",
+    "status": "verified",
+    "next_action": "optional: add Razorpay/Cashfree later"
+  }
+]

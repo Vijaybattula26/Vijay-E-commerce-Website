@@ -1,0 +1,5 @@
+{
+  "name": "The Vijay Store",
+  "description": "Premium jewellery, fashion, watches and lifestyle e-commerce store with admin catalog, cart, wishlist, and order management.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
